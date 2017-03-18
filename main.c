@@ -43,6 +43,8 @@ int sum(int nr,...)
 }
 int main()
 {
-    printf("%d",sum(3,4,5,6));
-    return 0;
+    //printf("%d",sum(3,4,5,6));
+
+    printf("varianta 1");
+        return 0;
 }
